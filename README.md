@@ -107,7 +107,7 @@
       <p><strong>Technologies:</strong> Python, Machine Learning, Flask</p>
       <p><strong>Models:</strong> Decision Tree, Random Forest, KNN, XGBoost</p>
       <!-- Add the confirmed public repository URL here. -->
-      <em>Repository link to be added.</em>
+      <a href="https://github.com/sk-sadik/flood-prediction-system">View Repository</a>
     </td>
   </tr>
 </table>
